@@ -45,4 +45,3 @@ frontend/dist/
 # Local Maven cache directories (do not commit)
 .m2/
 .m2-repo/
-
