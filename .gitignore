@@ -1,0 +1,48 @@
+HELP.md
+target/
+.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+### Frontend (Node / Vite) ###
+frontend/node_modules/
+frontend/dist/
+
+# Generated user credential exports (plaintext — keep out of VCS)
+/data/
+
+# Local env with secrets (do not commit)
+.env.local
+
+# Local Maven cache directories (do not commit)
+.m2/
+.m2-repo/
+
